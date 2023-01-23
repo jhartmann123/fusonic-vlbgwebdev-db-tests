@@ -1,3 +1,5 @@
+Note that this source was for demo purposes during the presentation only.
+
 Needs the following to be installed:
 - docker
 - docker-compose
